@@ -1,2 +1,2 @@
 # About 
-A simple triangle draw on a window using OpenGL
+A simple program to drawa a colored triangle with colored background on a window using OpenGL.
